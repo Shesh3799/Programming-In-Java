@@ -19,6 +19,7 @@
     <!-- Modules definition -->
     <modules>
         <module>JDBC</module>
+        <module>Java_Basics</module>
     </modules>
 
     <!-- Dependency Management -->
