@@ -20,6 +20,7 @@
     <modules>
         <module>JDBC</module>
         <module>Java_Basics</module>
+        <module>Java_OOPS</module>
     </modules>
 
     <!-- Dependency Management -->
