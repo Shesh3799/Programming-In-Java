@@ -27,4 +27,12 @@ Read content from [Java-Basic-Syntax-Data-Type.md](Notes/Java-Basic-Syntax-Data-
 Read content from [Java_Class.md](Notes/Java_Class.md)
 
 # Interface in Java
+- Default methods in Interface
+- The relationship between classes and interfaces
+- Implementing Multiple Interfaces
+- Extending a single and multiple interface
+- Multiple inheritance is not supported through class in java, but it is possible by an interface, why?
+- What is marker or tagged interface?
+- Class inside an interface
 
+Read content from [Interface.md](Notes/Interface.md)
